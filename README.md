@@ -23,7 +23,7 @@ Develop the program and compile it for any errors
 .Execute the program
 Check the simulation
 ## PROGRAM
-OUTPUT OF SIMULATION :
+## OUTPUT OF SIMULATION :
 
 <img width="359" height="266" alt="Screenshot 2026-07-27 114919" src="https://github.com/user-attachments/assets/80d6ba4c-8b96-48ef-ae5f-3e6f08062dbb" />
 
