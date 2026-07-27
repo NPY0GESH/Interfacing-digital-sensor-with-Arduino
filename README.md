@@ -12,6 +12,7 @@ Arduino UNO The Uno is a microcontroller board based on the ATmega328P. It has 1
 ## PIN DIAGRAM FOR ATMEGA 328
 <img width="597" height="391" alt="image" src="https://github.com/user-attachments/assets/64152e7d-7c80-4635-81c2-8c2dfdf0a735" />
 <img width="544" height="337" alt="image" src="https://github.com/user-attachments/assets/ea5eaf52-c955-4222-8443-4d5e51be098b" />
+
 ## PROCEDURE
 Open tinker cad account
 
@@ -23,4 +24,11 @@ Develop the program and compile it for any errors
 Check the simulation
 ## PROGRAM
 OUTPUT OF SIMULATION :
-My image
+<img width="359" height="266" alt="Screenshot 2026-07-27 114919" src="https://github.com/user-attachments/assets/80d6ba4c-8b96-48ef-ae5f-3e6f08062dbb" />
+
+<img width="358" height="338" alt="Screenshot 2026-07-27 114954" src="https://github.com/user-attachments/assets/2a06c328-997d-454b-baf1-007058cf90f8" />
+
+<img width="263" height="332" alt="Screenshot 2026-07-27 115008" src="https://github.com/user-attachments/assets/566419fc-7ab8-4eb6-9b11-243976d7aee6" />
+
+<img width="293" height="338" alt="image" src="https://github.com/user-attachments/assets/605c6adb-5beb-4b55-b630-ffa681ea844c" />
+
